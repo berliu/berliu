@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @berliu
+- 👀 I’m interested in typescript/javascript
+- 🌱 I’m currently learning everything
+- 💞️ I’m currently looking to collaborate on web development projects
+- 📫 You can reach me using Discord berliu#1316
